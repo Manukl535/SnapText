@@ -11,13 +11,6 @@ This is a Python script that uses the Tesseract OCR library to extract text from
 4. Install the Watchdog library from the official website.
 5. Install the Pillow library from the official website.
 
-
-
-
-
-```bash
-pip install watchdog pillow pytesseract
-```
 ```bash
 pip install watchdog
 pip install pillow
